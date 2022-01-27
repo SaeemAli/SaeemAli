@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SaeemAli
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming, football and Yugioh
 - 🌱 I’m currently learning Java in my first year of university
 - 📫 How to reach me: saeemali2003@gmail.com
