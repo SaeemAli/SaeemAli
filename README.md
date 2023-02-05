@@ -1,5 +1,4 @@
 - Hi, I’m @SaeemAli
-- I’m interested in programming, football and Yugioh
 - I'm in my second year of University, learning computer science. 
 - I can program in Java and Python. I am currently learning data science libraries in Python
 - How to reach me: saeemali2003@gmail.com
