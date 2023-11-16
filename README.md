@@ -1,4 +1,4 @@
 - Hi, I’m @SaeemAli
-- I'm in my second year of University, learning computer science. 
+- I am a final year computer science student at Queen Mary University of London 
 - I can program in Java and Python. I am currently learning data science libraries in Python
 - How to reach me: saeemali2003@gmail.com
